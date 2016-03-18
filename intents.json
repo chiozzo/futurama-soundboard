@@ -1,0 +1,13 @@
+{
+	"intents": [
+		{
+			"intent":"GetFryish",
+			"slots":[
+				{
+				"name": "Quote",
+				"type": "LITERAL"
+				}
+			]
+		}
+	]
+}
